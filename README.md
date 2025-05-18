@@ -1,2 +1,2 @@
 # git-branch
-git branch tutorial 
+i am standing at branch main 
