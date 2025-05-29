@@ -1,4 +1,8 @@
-
+---
+title: Report 1 of NAE lab 
+author: Libsonz
+date: May 29 25
+---
 # Table of Contents
 
 1.  [Note:](#org4deae23)
@@ -68,7 +72,6 @@
 
 ![img](../../notes/org-images/LSTM.png)
 
-:ID:       642d1a01-2548-4bc5-b0c3-3dc330d4d947
 
 1.  First stage - Forget Gate:
 
