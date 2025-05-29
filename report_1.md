@@ -1,6 +1,4 @@
----
-title: Report 1 of NAE lab 
----
+# Report 1 of NAE lab
 # Table of Contents
 
 1.  [Note:](#org4deae23)
