@@ -59,7 +59,7 @@
 
 ### source:
 
--[statQuest-LSTM](https://www.youtube.com/watch?v=YCzL96nL7j0)
+- [statQuest-LSTM](https://www.youtube.com/watch?v=YCzL96nL7j0)
 
 
 <a id="orgef50dab"></a>
@@ -100,7 +100,7 @@
 
 ### source:
 
--   [statQuest - Main idea of NN](https://www.youtube.com/watch?v=CqOfi41LfDw)
+- [statQuest - Main idea of NN](https://www.youtube.com/watch?v=CqOfi41LfDw)
 
 
 <a id="orgf9eea57"></a>
