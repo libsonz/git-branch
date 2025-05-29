@@ -1,7 +1,5 @@
 ---
 title: Report 1 of NAE lab 
-author: Libsonz
-date: May 29 25
 ---
 # Table of Contents
 
